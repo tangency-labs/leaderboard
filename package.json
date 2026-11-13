@@ -1,0 +1,9 @@
+{
+  "name": "leaderboard",
+  "private": true,
+  "type": "module",
+  "description": "Daily merged-PR leaderboard for SolidCraft",
+  "scripts": { "build": "node scripts/build.mjs site" },
+  "dependencies": { "playwright-core": "1.56.1" },
+  "license": "MIT"
+}
