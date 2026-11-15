@@ -1,17 +1,17 @@
 {
  "date": "2026-11-14",
- "total": 156,
+ "total": 187,
  "ranking": [
   {
    "login": "raykholo",
    "avatar": "https://avatars.githubusercontent.com/u/7330584?v=4",
-   "count": 46,
+   "count": 56,
    "url": "https://github.com/tangency-labs/solidcraft/pulls?q=is%3Apr%20is%3Amerged%20author%3Araykholo%20merged%3A2026-11-14T05%3A00%3A00Z..2026-11-15T04%3A59%3A59Z"
   },
   {
    "login": "brett19",
    "avatar": "https://avatars.githubusercontent.com/u/1621627?v=4",
-   "count": 24,
+   "count": 29,
    "url": "https://github.com/tangency-labs/solidcraft/pulls?q=is%3Apr%20is%3Amerged%20author%3Abrett19%20merged%3A2026-11-14T05%3A00%3A00Z..2026-11-15T04%3A59%3A59Z"
   },
   {
@@ -21,22 +21,34 @@
    "url": "https://github.com/tangency-labs/solidcraft/pulls?q=is%3Apr%20is%3Amerged%20author%3A0rdnungsamt%20merged%3A2026-11-14T05%3A00%3A00Z..2026-11-15T04%3A59%3A59Z"
   },
   {
+   "login": "cfaulkingham",
+   "avatar": "https://avatars.githubusercontent.com/u/305879?v=4",
+   "count": 12,
+   "url": "https://github.com/tangency-labs/solidcraft/pulls?q=is%3Apr%20is%3Amerged%20author%3Acfaulkingham%20merged%3A2026-11-14T05%3A00%3A00Z..2026-11-15T04%3A59%3A59Z"
+  },
+  {
    "login": "MarkusReichart",
    "avatar": "https://avatars.githubusercontent.com/u/52602624?v=4",
    "count": 9,
    "url": "https://github.com/tangency-labs/solidcraft/pulls?q=is%3Apr%20is%3Amerged%20author%3AMarkusReichart%20merged%3A2026-11-14T05%3A00%3A00Z..2026-11-15T04%3A59%3A59Z"
   },
   {
-   "login": "cfaulkingham",
-   "avatar": "https://avatars.githubusercontent.com/u/305879?v=4",
-   "count": 7,
-   "url": "https://github.com/tangency-labs/solidcraft/pulls?q=is%3Apr%20is%3Amerged%20author%3Acfaulkingham%20merged%3A2026-11-14T05%3A00%3A00Z..2026-11-15T04%3A59%3A59Z"
+   "login": "Nathan-Dane",
+   "avatar": "https://avatars.githubusercontent.com/u/93830135?v=4",
+   "count": 5,
+   "url": "https://github.com/tangency-labs/solidcraft/pulls?q=is%3Apr%20is%3Amerged%20author%3ANathan-Dane%20merged%3A2026-11-14T05%3A00%3A00Z..2026-11-15T04%3A59%3A59Z"
   },
   {
    "login": "plexi32",
    "avatar": "https://avatars.githubusercontent.com/u/58932224?v=4",
    "count": 4,
    "url": "https://github.com/tangency-labs/solidcraft/pulls?q=is%3Apr%20is%3Amerged%20author%3Aplexi32%20merged%3A2026-11-14T05%3A00%3A00Z..2026-11-15T04%3A59%3A59Z"
+  },
+  {
+   "login": "vdirienzo",
+   "avatar": "https://avatars.githubusercontent.com/u/6672536?v=4",
+   "count": 4,
+   "url": "https://github.com/tangency-labs/solidcraft/pulls?q=is%3Apr%20is%3Amerged%20author%3Avdirienzo%20merged%3A2026-11-14T05%3A00%3A00Z..2026-11-15T04%3A59%3A59Z"
   },
   {
    "login": "ablasik",
@@ -75,12 +87,6 @@
    "url": "https://github.com/tangency-labs/solidcraft/pulls?q=is%3Apr%20is%3Amerged%20author%3AN3MI-DG%20merged%3A2026-11-14T05%3A00%3A00Z..2026-11-15T04%3A59%3A59Z"
   },
   {
-   "login": "vdirienzo",
-   "avatar": "https://avatars.githubusercontent.com/u/6672536?v=4",
-   "count": 3,
-   "url": "https://github.com/tangency-labs/solidcraft/pulls?q=is%3Apr%20is%3Amerged%20author%3Avdirienzo%20merged%3A2026-11-14T05%3A00%3A00Z..2026-11-15T04%3A59%3A59Z"
-  },
-  {
    "login": "Dylan-ISE",
    "avatar": "https://avatars.githubusercontent.com/u/345819697?v=4",
    "count": 2,
@@ -93,6 +99,24 @@
    "url": "https://github.com/tangency-labs/solidcraft/pulls?q=is%3Apr%20is%3Amerged%20author%3AGrumpyOldNerd%20merged%3A2026-11-14T05%3A00%3A00Z..2026-11-15T04%3A59%3A59Z"
   },
   {
+   "login": "KazW",
+   "avatar": "https://avatars.githubusercontent.com/u/598968?v=4",
+   "count": 2,
+   "url": "https://github.com/tangency-labs/solidcraft/pulls?q=is%3Apr%20is%3Amerged%20author%3AKazW%20merged%3A2026-11-14T05%3A00%3A00Z..2026-11-15T04%3A59%3A59Z"
+  },
+  {
+   "login": "khanahmad4527",
+   "avatar": "https://avatars.githubusercontent.com/u/112844940?v=4",
+   "count": 2,
+   "url": "https://github.com/tangency-labs/solidcraft/pulls?q=is%3Apr%20is%3Amerged%20author%3Akhanahmad4527%20merged%3A2026-11-14T05%3A00%3A00Z..2026-11-15T04%3A59%3A59Z"
+  },
+  {
+   "login": "oursland",
+   "avatar": "https://avatars.githubusercontent.com/u/622450?v=4",
+   "count": 2,
+   "url": "https://github.com/tangency-labs/solidcraft/pulls?q=is%3Apr%20is%3Amerged%20author%3Aoursland%20merged%3A2026-11-14T05%3A00%3A00Z..2026-11-15T04%3A59%3A59Z"
+  },
+  {
    "login": "umutacil",
    "avatar": "https://avatars.githubusercontent.com/u/147334261?v=4",
    "count": 2,
@@ -103,6 +127,12 @@
    "avatar": "https://avatars.githubusercontent.com/u/72663794?v=4",
    "count": 1,
    "url": "https://github.com/tangency-labs/solidcraft/pulls?q=is%3Apr%20is%3Amerged%20author%3A1993eg1%20merged%3A2026-11-14T05%3A00%3A00Z..2026-11-15T04%3A59%3A59Z"
+  },
+  {
+   "login": "AlumnoTuring",
+   "avatar": "https://avatars.githubusercontent.com/u/55918569?v=4",
+   "count": 1,
+   "url": "https://github.com/tangency-labs/solidcraft/pulls?q=is%3Apr%20is%3Amerged%20author%3AAlumnoTuring%20merged%3A2026-11-14T05%3A00%3A00Z..2026-11-15T04%3A59%3A59Z"
   },
   {
    "login": "ChrisNourse",
@@ -159,28 +189,10 @@
    "url": "https://github.com/tangency-labs/solidcraft/pulls?q=is%3Apr%20is%3Amerged%20author%3Akaievns%20merged%3A2026-11-14T05%3A00%3A00Z..2026-11-15T04%3A59%3A59Z"
   },
   {
-   "login": "KazW",
-   "avatar": "https://avatars.githubusercontent.com/u/598968?v=4",
-   "count": 1,
-   "url": "https://github.com/tangency-labs/solidcraft/pulls?q=is%3Apr%20is%3Amerged%20author%3AKazW%20merged%3A2026-11-14T05%3A00%3A00Z..2026-11-15T04%3A59%3A59Z"
-  },
-  {
-   "login": "khanahmad4527",
-   "avatar": "https://avatars.githubusercontent.com/u/112844940?v=4",
-   "count": 1,
-   "url": "https://github.com/tangency-labs/solidcraft/pulls?q=is%3Apr%20is%3Amerged%20author%3Akhanahmad4527%20merged%3A2026-11-14T05%3A00%3A00Z..2026-11-15T04%3A59%3A59Z"
-  },
-  {
    "login": "morteng",
    "avatar": "https://avatars.githubusercontent.com/u/1228207?v=4",
    "count": 1,
    "url": "https://github.com/tangency-labs/solidcraft/pulls?q=is%3Apr%20is%3Amerged%20author%3Amorteng%20merged%3A2026-11-14T05%3A00%3A00Z..2026-11-15T04%3A59%3A59Z"
-  },
-  {
-   "login": "Nathan-Dane",
-   "avatar": "https://avatars.githubusercontent.com/u/93830135?v=4",
-   "count": 1,
-   "url": "https://github.com/tangency-labs/solidcraft/pulls?q=is%3Apr%20is%3Amerged%20author%3ANathan-Dane%20merged%3A2026-11-14T05%3A00%3A00Z..2026-11-15T04%3A59%3A59Z"
   },
   {
    "login": "Rempelino",
@@ -223,7 +235,7 @@
   {
    "login": "bherbruck",
    "avatar": "https://avatars.githubusercontent.com/u/5258126?v=4",
-   "count": 6,
+   "count": 7,
    "url": "https://github.com/tangency-labs/solidcraft/pulls?q=is%3Apr%20is%3Amerged%20author%3Abherbruck%20merged%3A2026-11-14T05%3A00%3A00Z..2026-11-15T04%3A59%3A59Z"
   },
   {
@@ -234,5 +246,5 @@
   }
  ],
  "final": false,
- "generatedAt": "2026-11-14T23:54:14.289Z"
+ "generatedAt": "2026-11-15T04:25:21.328Z"
 }
