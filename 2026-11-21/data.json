@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "total": 92,
+ "total": 94,
  "ranking": [
   {
    "login": "raykholo",
@@ -163,7 +163,7 @@
   {
    "login": "bherbruck",
    "avatar": "https://avatars.githubusercontent.com/u/5258126?v=4",
-   "count": 28,
+   "count": 30,
    "url": "https://github.com/tangency-labs/solidcraft/pulls?q=is%3Apr%20is%3Amerged%20author%3Abherbruck%20merged%3A2026-11-21T05%3A00%3A00Z..2026-11-22T04%3A59%3A59Z"
   },
   {
@@ -173,6 +173,6 @@
    "url": "https://github.com/tangency-labs/solidcraft/pulls?q=is%3Apr%20is%3Amerged%20author%3Ajyviko%20merged%3A2026-11-21T05%3A00%3A00Z..2026-11-22T04%3A59%3A59Z"
   }
  ],
- "final": false,
- "generatedAt": "2026-11-22T03:20:35.858Z"
+ "final": true,
+ "generatedAt": "2026-11-22T11:46:42.762Z"
 }
