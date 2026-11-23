@@ -1,0 +1,28 @@
+{
+ "date": "2026-11-23",
+ "total": 7,
+ "ranking": [
+  {
+   "login": "brett19",
+   "avatar": "https://avatars.githubusercontent.com/u/1621627?v=4",
+   "count": 4,
+   "url": "https://github.com/tangency-labs/solidcraft/pulls?q=is%3Apr%20is%3Amerged%20author%3Abrett19%20merged%3A2026-11-23T05%3A00%3A00Z..2026-11-24T04%3A59%3A59Z"
+  }
+ ],
+ "maintainers": [
+  {
+   "login": "bherbruck",
+   "avatar": "https://avatars.githubusercontent.com/u/5258126?v=4",
+   "count": 3,
+   "url": "https://github.com/tangency-labs/solidcraft/pulls?q=is%3Apr%20is%3Amerged%20author%3Abherbruck%20merged%3A2026-11-23T05%3A00%3A00Z..2026-11-24T04%3A59%3A59Z"
+  },
+  {
+   "login": "jyviko",
+   "avatar": "https://github.com/jyviko.png",
+   "count": 0,
+   "url": "https://github.com/tangency-labs/solidcraft/pulls?q=is%3Apr%20is%3Amerged%20author%3Ajyviko%20merged%3A2026-11-23T05%3A00%3A00Z..2026-11-24T04%3A59%3A59Z"
+  }
+ ],
+ "final": false,
+ "generatedAt": "2026-11-23T07:01:46.705Z"
+}
